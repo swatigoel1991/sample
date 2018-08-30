@@ -1,14 +1,29 @@
-{
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
-}
+{ 
+		"accessPointAttributes": {
+        "accessPointId": "string",
+        "storeName": "Bob Mart"
+        },
+        "addressAttributes":{
+        	"addressId": "string",
+            "name": "string",
+            "addressLine1": "12345 Strongbow Lane",
+            "addressLine2": "string",
+            "addressLine3": "string",
+            "landmark": "Firenze",
+            "city": "Tuscany",
+            "country": "Italy",
+            "state": "string",
+            "pinCode": "string",
+            "emailAddress": "string",
+            "textPhone": "9876543210",
+            "primaryPhone": "1234567890",
+            "secondaryPhone": "string",
+            "restrictedAccess": true,
+            "parkingAvailable": true,
+            "districtOrCounty": "string"
+        	},
+    	"resourceAccessAttributes": {
+    	    "workflowAccountType": "string",
+    	    "roleName": "Store Manager"
+    	  }
+        }
