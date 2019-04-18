@@ -16,23 +16,4 @@
 				"contentType": "asdf",
 				"contentLength": "2314"
 			}]
-		},
-		{
-			"contextId": "27df4368w--af3629f",
-			"searchResults": "amzn1.appl367c202419",
-			"documentStatus": "Failed",
-			"sequenceNumber": 41223,
-			"createdAt": "1553754073",
-			"inputDocumentList": [{
-				"documentId": "amzngaMBQNYI5",
-				"documentType": "input",
-				"contentType": "asdf",
-				"contentLength": "2314"
-			}],
-			"outputDocumentList": [{
-				"documentId": "amzn1.MBQNYI5",
-				"documentType": "input",
-				"contentType": "asdf",
-				"contentLength": "2314"
-			}]
 		}]}
