@@ -5,14 +5,14 @@
 		"sequenceNumber": 69,
 		"status": "Completed",
 		"inputDocuments": [{
-			"documentId": "amzn1.tortuga.3.4d70f67d-d876-4906-8ee0-30fd0b7dc7bf.TF45G02MKWFCR",
+			"documentId": "amzn1",
 			"documentType": "InputDocument",
 			"contentType": null,
 			"contentLength": 0,
 			"documentContent": null
 		}],
 		"outputDocuments": [{
-			"documentId": "amzn1.tortuga.3.d153d70c-96bc-4a53-a777-d52cb79c46c8.T1V8LUO7D9ILD5",
+			"documentId": "amzn1",
 			"documentType": "OutputDocument",
 			"contentType": null,
 			"contentLength": 0,
