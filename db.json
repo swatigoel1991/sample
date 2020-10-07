@@ -1,1 +1,71 @@
-{"accessPoints":[{"accessPoint":{"accessPointId":"3c1dcdf9-62d8-4e2a-be44-eec5710cd2ee","externalAccessPointId":"US-11002-5","partnerId":"295103932707","accessPointName":"TestAP Partner with 1 AP","timeZone":"America/New_York","addressAttributes":{"addressId":"MACB26AR5ZOLXDIV6KSEG12R7EWLWGJUCA2TCUJGWLWE7R5PXTQ2EIA2OXEZGSG6","name":"TestAP Partner with 1 AP","addressLine1":"AddressLine 1","addressLine2":"AddressLine 2","addressLine3":"AddressLine 3","city":"New York","countryCode":"US","state":"NYC","pinCode":"11002","longitude":"-73.707429","latitude":"40.720452"},"accessPointStatus":"PLANNED","accessPointCapabilities":[]},"userAccess":{"userId":"A222K9Y5E2GVZ9","userIds":null,"roleName":"AccessPointPartner","resource":null,"action":null,"attributeType":"store-provider","userAttributes":["295103932707"]},"userWorkflow":{"accountType":"locationSetup","accountId":"3c1dcdf9-62d8-4e2a-be44-eec5710cd2ee","accountStatus":"ONBOARDING_IN_PROGRESS","moduleStates":[{"accountType":"locationSetup","moduleName":"location-created","moduleClientStatus":"COMPLETED","moduleStatus":"COMPLETED"},{"accountType":"locationSetup","moduleName":"location-contact-details","moduleClientStatus":"NOT_STARTED","moduleStatus":"NOT_STARTED"},{"accountType":"locationSetup","moduleName":"location-hours","moduleClientStatus":"NOT_STARTED","moduleStatus":"NOT_STARTED"},{"accountType":"locationSetup","moduleName":"location-review","moduleClientStatus":"NOT_STARTED","moduleStatus":"NOT_STARTED"}]}}],"nextStartOffset":"3c1dcdf9-62d8-4e2a-be44-eec5710cd2ee"}
+{
+  "accessPoints": [
+    {
+      "accessPoint": {
+        "accessPointId": "3c1dcdf9-62d8-4e2a-be44-eec5710cd2ee",
+        "externalAccessPointId": "US-11002-5",
+        "partnerId": "295103932707",
+        "accessPointName": "TestAP Partner with 1 AP",
+        "timeZone": "America/New_York",
+        "addressAttributes": {
+          "addressId": "MACB26AR5ZOLXDIV6KSEG12R7EWLWGJUCA2TCUJGWLWE7R5PXTQ2EIA2OXEZGSG6",
+          "name": "TestAP Partner with 1 AP",
+          "addressLine1": "AddressLine 1",
+          "addressLine2": "AddressLine 2",
+          "addressLine3": "AddressLine 3",
+          "city": "New York",
+          "countryCode": "US",
+          "state": "NYC",
+          "pinCode": "11002",
+          "longitude": "-73.707429",
+          "latitude": "40.720452"
+        },
+        "accessPointStatus": "PLANNED",
+        "accessPointCapabilities": []
+      },
+      "userAccess": {
+        "userId": "A222K9Y5E2GVZ9",
+        "userIds": null,
+        "roleName": "AccessPointPartner",
+        "resource": null,
+        "action": null,
+        "attributeType": "store-provider",
+        "userAttributes": [
+          "295103932707"
+        ]
+      },
+      "userWorkflow": {
+        "accountType": "locationSetup",
+        "accountId": "3c1dcdf9-62d8-4e2a-be44-eec5710cd2ee",
+        "accountStatus": "ONBOARDING_IN_PROGRESS",
+        "moduleStates": [
+          {
+            "accountType": "locationSetup",
+            "moduleName": "location-created",
+            "moduleClientStatus": "COMPLETED",
+            "moduleStatus": "COMPLETED"
+          },
+          {
+            "accountType": "locationSetup",
+            "moduleName": "location-contact-details",
+            "moduleClientStatus": "NOT_STARTED",
+            "moduleStatus": "NOT_STARTED"
+          },
+          {
+            "accountType": "locationSetup",
+            "moduleName": "location-hours",
+            "moduleClientStatus": "NOT_STARTED",
+            "moduleStatus": "NOT_STARTED"
+          },
+          {
+            "accountType": "locationSetup",
+            "moduleName": "location-review",
+            "moduleClientStatus": "NOT_STARTED",
+            "moduleStatus": "NOT_STARTED"
+          }
+        ]
+      }
+    }
+  ],
+  "nextStartOffset": "3c1dcdf9-62d8-4e2a-be44-eec5710cd2ee"
+}
